@@ -2,4 +2,4 @@
 
 - 🌐 WWW: <https://marvin-elsen.com>
 - 📧 Email: <github@marvin-elsen.com>
-- 🔑 [PGP key](https://marvin-elsen.com/marvin-elsen-0xF09AABD400895DB8.asc) | __Fingerprint__: `66F0 60EE 7995 33F9 6EEC 8F73 F09A ABD4 0089 5DB8`
+- 🔑 [PGP key](https://marvin-elsen.com/marvin-elsen-0x3926B77211DD1C63.asc) | __Fingerprint__: `FEDB C02F CE5C F425 EB73 F418 3926 B772 11DD 1C63`
