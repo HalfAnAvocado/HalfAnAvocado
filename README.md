@@ -1,8 +1,19 @@
-<h2>About</h2>
-<p>I am a <a href="https://en.wikipedia.org/wiki/Software_engineering">Software Engineer</a> from <a href="https://en.wikipedia.org/wiki/Germany">Germany</a>, and currently in my late twenties. I hold a <a href="https://en.wikipedia.org/wiki/Bachelor%27s_degree">Bachelor's degree</a> in <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a>, from which I graduated with distinction. Having the privilege of growing up in this beautiful country, I've spent the pivotal years of my life honing my skills and developing a deep passion for the dynamic field of technology. My passion for programming was ignited at the tender age of 13, when I started <a href="https://en.wikipedia.org/wiki/Video_game_modding">modding video games</a> such as <a href="https://en.wikipedia.org/wiki/Quake_(video_game)">Quake</a> and <a href="https://en.wikipedia.org/wiki/Half-Life_(video_game)">Half-Life</a>. This early exposure to the magic of code has since blossomed into a lifelong dedication to the craft of <a href="https://en.wikipedia.org/wiki/Software_engineering">software engineering</a>.</p>
-<p>My passion is not merely for writing code, but for leveraging technology as a tool to better our world. I'm fervently committed to using my technical skills to create software solutions that have a positive impact and contribute to societal progress. I view my profession not just as a job, but as a calling and an opportunity to make a difference.</p>
-<h2>Contact</h2>
-<p>I am a native speaker of 🇩🇪 <a href="https://en.wikipedia.org/wiki/German_language">German</a> and have professional working proficiency in 🇬🇧 <a href="https://en.wikipedia.org/wiki/English_language">English</a>, as well as advanced competency in 🇹🇼 <a href="https://en.wikipedia.org/wiki/Standard_Chinese">Standard Chinese</a>, certified at <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages"><abbr title="Common European Framework of Reference for Languages">CEFR</abbr></a> level C1. For optimal communication, I kindly request that you engage with me in any of these languages when reaching out.</p>
-<p>You can connect with me through several platforms, however, I prioritize communication via email. You may contact me directly at <a href="mailto:github@marvinelsen.com">github@marvinelsen.com</a>. Also, I am available on <a href="https://www.linkedin.com/in/marvinelsen">LinkedIn</a> and <a href="https://marvinelsen.com">marvinelsen.com</a> for professional networking and collaboration.</p>
-<h2>Where?</h2>
-<p>I am currently based in <a href="https://en.wikipedia.org/wiki/D%C3%BCsseldorf">Düsseldorf</a>, <a href="https://en.wikipedia.org/wiki/Germany">Germany</a>, and operate within the Central European Time zone (<a href="https://en.wikipedia.org/wiki/Central_European_Time">CET</a> / <a href="https://en.wikipedia.org/wiki/UTC%2B01:00">UTC+1</a>).</p>
+<h1>Contact</h1>
+<ul>
+  <li><strong>Website: </strong><a rel="me" href="https://marvinelsen.com/">marvinelsen.com</a></li>
+  <li><strong>Email: </strong><a href="mailto:github@marvinelsen.com">github@marvinelsen.com</a></li>
+  <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/marvinelsen">marvinelsen</a></li>
+  <li><strong>Mastodon: </strong><a href="https://mastodon.social/@HalfAnAvocado">@HalfAnAvocado@mastodon.social</a></li>
+  <li><strong>Matrix: </strong><a href="https://matrix.to/#/@halfanavocado:matrix.org">@halfanavocado:matrix.org</a></li>
+</ul>
+<h1>Languages</h1>
+<ul>
+  <li><strong>🇩🇪 <a href="https://en.wikipedia.org/wiki/German_language">German</a>: </strong>native</li>
+  <li><strong>🇬🇧 <a href="https://en.wikipedia.org/wiki/English_language">English</a>: </strong>professional working proficiency</li>
+  <li><strong>🇹🇼 <a href="https://en.wikipedia.org/wiki/Standard_Chinese">Standard Chinese</a>: </strong>advanced competency certified at <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages"><abbr title="Common European Framework of Reference for Languages">CEFR</abbr></a> level C1</li>
+</ul> 
+<h1>Where?</h1>
+<ul>
+  <li><strong>Location: </strong><a href="https://en.wikipedia.org/wiki/D%C3%BCsseldorf">Düsseldorf</a>, <a href="https://en.wikipedia.org/wiki/Germany">Germany 🇩🇪</a></li>
+  <li><strong>Timezone: </strong>Central European Time zone (<a href="https://en.wikipedia.org/wiki/Central_European_Time">CET</a> / <a href="https://en.wikipedia.org/wiki/UTC%2B01:00">UTC+1</a>)</li>
+</ul>
